@@ -29,7 +29,7 @@ house-price-prediction/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/house-price-prediction.git
+   git clone https://github.com/Soniaify/house-price-prediction.git
    cd house-price-prediction
 Create a virtual environment and install dependencies:
 Run the Flask app:
